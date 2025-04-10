@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 - 🌱 I’m constantly learning and exploring new technologies and frameworks.
 - 👯 I’m looking to collaborate on interesting and innovative projects.
 - 💬 Ask me about software development, coding best practices, and technology trends.
-- 📫 How to reach me: [Email](mailto:manageryzy@example.com)
 
 ## 🛠️ Technologies & Tools
 
